@@ -6,7 +6,8 @@ to fix subtitles that are too slow or too fast
 # HOW TO USE:
  1) Start the video you want to fix the subtitles for and enable its subtitles
  2) Go towards the end of the video and identify a sentence said
-```For instance, someone says "Let's go" at time 50m0s
+```
+For instance, someone says "Let's go" at time 50m0s
 ```
  3) In the subtitle file find the time where "Let's go" is said (let's say 55m0s)
  4) Calculate the factor to use:
